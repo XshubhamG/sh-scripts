@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+
+rofi -dmenu -i -theme themes/clipboard.rasi -p "Clipboard"
